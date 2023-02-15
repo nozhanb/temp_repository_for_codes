@@ -1,3 +1,3 @@
 # test_repo
 
-Prof. Zingale directory contains a series of my codes according to Prof. Zingle's [course home work](http://bender.astro.sunysb.edu/classes/numerical_methods/). 
+zingale: contains a series of my codes on Prof. Zingle's [course home works](http://bender.astro.sunysb.edu/classes/numerical_methods/). 

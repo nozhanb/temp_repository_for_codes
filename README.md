@@ -5,3 +5,6 @@ konstantinos: contains my codes for some of the examples and exercises in [Compu
 zingale: contains a series of my codes on Prof. Zingle's [course home works](http://bender.astro.sunysb.edu/classes/numerical_methods/). Please note that file names are abbreviated. For instance, file name "hm2e1pc" means homework2, exercise 1, part c.
 
 David_Hogg_out.ipynb notebook covers some exercises in [Hogg et al. 2018](https://iopscience.iop.org/article/10.3847/1538-4365/aab76e/pdf) and [Hogg et al. 2010](https://arxiv.org/abs/1008.4686).
+
+an_Introduction_to_generalized_linear_models_3rd_edition.ipynb covers some examples of the book [An Introduction to Generalized Linear Models](https://www.amazon.com/Introduction-Generalized-Chapman-Statistical-Science/dp/1584889500).
+

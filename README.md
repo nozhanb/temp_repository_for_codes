@@ -8,3 +8,5 @@ David_Hogg_out.ipynb notebook covers some exercises in [Hogg et al. 2018](https:
 
 an_Introduction_to_generalized_linear_models_3rd_edition.ipynb covers some examples of the book [An Introduction to Generalized Linear Models](https://www.amazon.com/Introduction-Generalized-Chapman-Statistical-Science/dp/1584889500).
 
+bayesian_core.ipynb covers the example in the book [Bayesian Core: A Practical Approach to Computational Bayesian Statistics](https://www.amazon.com/Bayesian-Core-Practical-Computational-Statistics/dp/0387389792).
+

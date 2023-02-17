@@ -20,3 +20,4 @@ in_all_likelihood_1st_edition_part1.ipynb and in_all_likelihood_1st_edition_part
 
 probability_and_statistics_4th_edition.ipynb: is the notebook for [Probability and Statistics](https://www.amazon.com/Probability-Statistics-4th-Morris-DeGroot/dp/0321500466)
 
+sdss_dr16_and_astropy_test_out.ipynb: This notebook covers my ongoing attempt at exploring the latest quasar catalog by [Wu and Shen 2022](https://iopscience.iop.org/article/10.3847/1538-4365/ac9ead). In addition, I am tryig to do some simple fitting (i.e. just the gaussian components and not including the underlying continuum emission and iron templates) using the Bayesian method and the EMCEE library developed by [Jonathan Goodman and Jonathan Weare](https://msp.org/camcos/2010/5-1/p04.xhtml). Also, as part of my ongoing attempt, I will be making use of the [Astropy](https://www.astropy.org/) library to apply some preprocessing steps (e.g. binning, telluric correction, dereddening, etc.). 

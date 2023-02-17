@@ -16,3 +16,5 @@ bayesian_logical_data_analysis_for_the_physical_sciences.ipynb: is the notebook 
 
 doing_bayesian_data_analysis_2nd_edition.ipynb: is the notebook for [Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan](https://www.amazon.com/Doing-Bayesian-Data-Analysis-Tutorial/dp/0124058884/ref=sr_1_1?keywords=doing+bayesian+data+analysis&qid=1675802690&s=books&sprefix=doing+bayesina+,stripbooks-intl-ship,177&sr=1-1)
 
+in_all_likelihood_1st_edition_part1.ipynb and in_all_likelihood_1st_edition_part2.ipynb: both notebooks cover [In All Likelihood: Statistical Modelling and Inference Using Likelihood](https://www.amazon.com/All-Likelihood-Statistical-Modelling-Inference-ebook/dp/B00BG8HTTK/ref=sr_1_1?crid=NDB988VKG6NY&keywords=In+all+likelihood&qid=1675878212&s=books&sprefix=in+all+likelihood,stripbooks-intl-ship,165&sr=1-1)
+

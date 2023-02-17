@@ -12,3 +12,5 @@ an_Introduction_to_generalized_linear_models_3rd_edition.ipynb covers some examp
 
 bayesian_core.ipynb covers the example in the book [Bayesian Core: A Practical Approach to Computational Bayesian Statistics](https://www.amazon.com/Bayesian-Core-Practical-Computational-Statistics/dp/0387389792).
 
+bayesian_logical_data_analysis_for_the_physical_sciences.ipynb: is the notebook for [Bayesian Logical Data Analysis for the Physical Sciences](https://www.amazon.com/Bayesian-Logical-Analysis-Physical-Sciences/dp/0521150124).
+

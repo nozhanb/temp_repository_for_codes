@@ -4,4 +4,3 @@ konstantinos: contains my codes for some of the examples and exercises in [Compu
 
 zingale: contains a series of my codes on Prof. Zingle's [course home works](http://bender.astro.sunysb.edu/classes/numerical_methods/). Please note that file names are abbreviated. For instance, file name "hm2e1pc" means homework2, exercise 1, part c.
 
-

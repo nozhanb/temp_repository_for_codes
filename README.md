@@ -18,3 +18,5 @@ doing_bayesian_data_analysis_2nd_edition.ipynb: is the notebook for [Doing Bayes
 
 in_all_likelihood_1st_edition_part1.ipynb and in_all_likelihood_1st_edition_part2.ipynb: both notebooks cover [In All Likelihood: Statistical Modelling and Inference Using Likelihood](https://www.amazon.com/All-Likelihood-Statistical-Modelling-Inference-ebook/dp/B00BG8HTTK/ref=sr_1_1?crid=NDB988VKG6NY&keywords=In+all+likelihood&qid=1675878212&s=books&sprefix=in+all+likelihood,stripbooks-intl-ship,165&sr=1-1)
 
+probability_and_statistics_4th_edition.ipynb: is the notebook for [Probability and Statistics](https://www.amazon.com/Probability-Statistics-4th-Morris-DeGroot/dp/0321500466)
+

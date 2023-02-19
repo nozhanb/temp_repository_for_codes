@@ -6,7 +6,7 @@ Please note that all the codes here are meant to demonstrate part of my attempt 
 
 - zingale: contains a series of my codes on Prof. Zingle's [course homeworks](http://bender.astro.sunysb.edu/classes/numerical_methods/). Please note that file names are abbreviated. File name "hm2e1pc" means homework2, exercise 1, part c.
 
-- Accretion_disc_warp_simulation.ipynb: A failed attempt at reproducing Fig. 1 of [Sergei Nayakshin 2005](https://academic.oup.com/mnras/article/359/2/545/987221?login=false)!
+- Accretion_disc_warp_simulation.ipynb: A failed attempt at reproducing Fig. 1 of [Sergei Nayakshin 2005](https://academic.oup.com/mnras/article/359/2/545/987221?login=false).
 
 - srcnnTest-out.ipynb: is the notebook that cotains the "SRCNN" DeepLearning network for the purpose of super resolution publishd by [Dong et al. 2016](https://link.springer.com/chapter/10.1007/978-3-319-46475-6_25).
 

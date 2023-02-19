@@ -1,8 +1,4 @@
-// This code is the result of my failure in coding the three-body problem (i.e. hm2e2pa). To make things easier and find out what the 
-// problem is with my three-body code I wrote this one. It certainly was a good idea to start from something simpler (i.e. two-body)!
-// This code seems to be working but the results need to be verified!
-// Note: this code is written on the remnants of my failed three-body attempt so there are still some traces of the third object/body 
-// is left on this page (e.g. mass3). Just ignore them!
+// Similar to twoBody.cpp but with Adaptive setp-size method!
 
 // Septemebr 05, 2020
 // Nozhan

@@ -1,10 +1,10 @@
 # File Description
 
-Please note that all the codes here are meant to demonstrate part of my attempt at becoming better at the statistical concepts that I was studying at the time and at programming. In that regard, some codes contain my own experimentation/exploration of different ideas and are not about a particular example or problem!
+Please note that all the codes here are meant to demonstrate part of my attempt at becoming better at the statistical concepts that I was studying at the time and at programming. In that regard, some codes contain my own experimentation/exploration of different ideas applied to a specific problem (e.g. hm2.ipynb file above).
 
 - sdss_dr16_and_astropy_test_out.ipynb: this notebook covers my ongoing attempt at becoming more familiar with spectral properties of starts and their template spectrum according to the [Astro330 course](https://astro-330.github.io/Lab5/Lab5_solutions.html). Also, given my experience with AGNs and quasar catalogs (dr7), I started exploring the latest quasar catalog by [Wu and Shen 2022](https://iopscience.iop.org/article/10.3847/1538-4365/ac9ead). In addition, I am tryig to exercise some simple fittings (i.e. just the gaussian components and not including the underlying continuum emission and iron templates) using Bayesian methods and the [EMCEE](https://emcee.readthedocs.io/en/stable/) library developed by [Jonathan Goodman and Jonathan Weare](https://msp.org/camcos/2010/5-1/p04.xhtml). Also, as part of my ongoing attempt, I will be spennding more time in exercisinng further preprocessing and spectrum preparation steps (e.g. binning, telluric correction, dereddening, etc.).
 
-- zingale: contains a series of my codes on Prof. Zingle's [course homeworks](http://bender.astro.sunysb.edu/classes/numerical_methods/). Please note that file names are abbreviated. For instance, [hm2.ipynb](https://github.com/nozhanb/temp_repository_for_codes#:~:text=18%20hours%20ago-,hm2.ipynb,-home%20work%20two) means homework 2 and file name "hm2e1pc" means homework2, exercise 1, part c.
+- zingale: contains a series of my codes on Prof. Zingle's [course homeworks](http://bender.astro.sunysb.edu/classes/numerical_methods/). Please note that file names are abbreviated. File name "hm2e1pc" means homework2, exercise 1, part c.
 
 - Accretion_disc_warp_simulation.ipynb: A failed attempt at reproducing Fig. 1 of [Sergei Nayakshin 2005](https://academic.oup.com/mnras/article/359/2/545/987221?login=false)!
 

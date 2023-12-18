@@ -2,6 +2,10 @@
 
 Please note that all the codes here are meant to demonstrate part of my attempt at becoming better at both the statistical concepts that I was studying at the time and at coding. In that regard, some codes contain my experimentation/exploration of different ideas applied to a specific problem (e.g. hm2.ipynb or bayesian_logical_data_analysis_for_the_physical_sciences.ipynb files above).
 
+- cloudy_C22.ipynb: This file contains a small part of my attempt in running Cloudy photoionization model and reproducing some results from afew papers.
+
+- remarkable_weak_emission_line.ipynb: My attempt in reproducing fig. 1 of [K. Hryniewicz et al. 2010](https://academic.oup.com/mnras/article/404/4/2028/1087097). Overall, it was a good exercise and I managed to reproduce part of the figure 1. I need to keep working on this task further.
+
 - sdss_dr16_and_astropy_test_out.ipynb: this notebook covers my ongoing attempt at becoming more familiar with spectral properties of starts and their template spectrum according to the [Astro330 course](https://astro-330.github.io/Lab5/Lab5_solutions.html). Also, given my experience with AGNs and quasar catalogs (dr7), I started exploring the latest quasar catalog by [Wu and Shen 2022](https://iopscience.iop.org/article/10.3847/1538-4365/ac9ead). In addition, I am tryig to practice some simple fittings (i.e. just the gaussian components and not including the underlying continuum emission and iron templates) using Bayesian methods and the [EMCEE](https://emcee.readthedocs.io/en/stable/) library developed by [Jonathan Goodman and Jonathan Weare](https://msp.org/camcos/2010/5-1/p04.xhtml). Also, as part of my ongoing attempt, I will be spennding more time in practicing further preprocessing and spectrum preparation steps (e.g. binning, telluric correction, dereddening, etc.).
 
 - bayesian_logical_data_analysis_for_the_physical_sciences.ipynb: is the notebook for [Bayesian Logical Data Analysis for the Physical Sciences](https://www.amazon.com/Bayesian-Logical-Analysis-Physical-Sciences/dp/0521150124).
